@@ -15,11 +15,11 @@
 # def bye():
 #     print("bye")
     
-# # star(hello)()
+# star(hello)()
 # hello()
-# # bye()
+# bye()
 
-# def star(func):
+#def star(func):
 #     def wrapper():
 #         print('*')
 #         func()
@@ -41,7 +41,7 @@
 #     print("This is for hello")
     
 # hello()    
-# # hashtag(hello)()
+# hashtag(hello)()
 
 def make_pretty(func):
     def inner():
