@@ -13,6 +13,6 @@ with open('data.json', 'w') as file:
     json.dump(data, file, indent=4)
 
 # Reading JSON Object from a file
-with open('data.json', 'r') as file:
-    data = json.load(file)
-    print(data)
+# with open('data.json', 'r') as file:
+#     data = json.load(file)
+#     print(data)

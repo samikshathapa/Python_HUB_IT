@@ -1,4 +1,4 @@
-# readlines() convert every line to list
+# !readlines() convert every line to list
 
 
 # To write in a file
