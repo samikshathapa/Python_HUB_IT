@@ -39,7 +39,7 @@ def delete(filename):
         print("File not found!")
         
 def main():
-    filename = input("Enter filename you want to create: ")
+    filename = input("Enter filename  want to create: ")
 
     create(filename)
         
