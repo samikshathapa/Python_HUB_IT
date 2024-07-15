@@ -10,7 +10,9 @@ class Person:
         print(f"Name: {self.name}, Age: {self.age}")
 
 person1 = Person("Subu", 21)
-person1.display("before birthday: ")  
-person1.birthday()
+print("before birthday: ")  
+person1.display()
 
-person1.display("after birthday: ")  
+print("after birthday: ")  
+person1.birthday()
+person1.display()
