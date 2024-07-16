@@ -1,5 +1,5 @@
 
-# note: Private Member
+# note: Private Member & Protected Member
 # class Employee:
 #     def __init__(self):
 #         self._name = "Dipen"
@@ -14,7 +14,7 @@
 # object1 = EmployeeChild()
 # print(object1._name)
 
-# note: Accessing private data
+# note: Accessing private data & protected data
 class Person:
     def __init__(self, name, age, salary):
         self.name = name

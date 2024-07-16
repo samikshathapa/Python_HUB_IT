@@ -33,7 +33,7 @@
 # for shape in shapes:
 #     shape.draw()
 
-# note: Polymorphism with function
+# note: Use of Polymorphism with function using loop
 # def make_sound(animal):
 #     return animal.sound()
 
@@ -50,6 +50,7 @@
 # for animal in animals:
 #     print(make_sound(animal))
 
+# note: Use of polymorphism without loop in Function
 class Nepal():
     def language(self):
         print ("Nepali")
